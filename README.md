@@ -11,4 +11,8 @@ parameters was the "master(local[8]", which means 8 threads, and the "spark.defa
 
 I've tried changes in parameters spark.executor.cores, spark.executor.memory and spark.cores.max but with no changes in metrics values. 
 
+Screenshots
+![](udacity-data-streaming-p2-ss1.png)
+![](udacity-data-streaming-p2-ss2.png)
+![](udacity-data-streaming-p2-ss3.png)
 
